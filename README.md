@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Sebastian Maciejewski
 
-<!--
-**S-Maciejewski/S-Maciejewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Director of Engineering at Grokstream**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Expertise
+- Python
+- Node.js
+- Software Architecture
+- Project Management
+
+## 🚀 Projects
+- [pretty-package](https://github.com/S-Maciejewski/pretty-package): A small but surprisingly useful utility  
+- [geekonomy](https://github.com/S-Maciejewski/geekonomy): Economics quiz game  
+- Designed and implemented **Grok Guru**, an LLM-based application for Grokstream
+
+## 🎲 Interests
+Economics, board games, motor racing, racket sports
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sebastian--maciejewski-blue?logo=linkedin)](https://www.linkedin.com/in/sebastian-maciejewski/)
+
+---
+
+*Feel free to reach out via LinkedIn!*
